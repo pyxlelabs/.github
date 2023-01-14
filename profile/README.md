@@ -1,4 +1,4 @@
-### Welcome to PyxleLabs
+### Welcome to Pyxle Labs
 
 #### We are a software and digital media agency that specializes in creating innovative solutions for businesses. Our team of experts deliver custom software, websites, and digital marketing campaigns that drive results.
 
