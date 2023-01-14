@@ -9,6 +9,10 @@
 <li>Digital marketing</li>
 <li>E-commerce solutions</li>
 
+### Our Team
+
+####Our team is made up of experienced developers, designers, and marketers who are passionate about what they do. We work together to deliver innovative solutions that drive results for our clients.
+
 ### Our Approach
 
 #### We use an agile approach to deliver high-quality solutions on time and within budget. Our team works closely with clients to understand their needs and goals.
