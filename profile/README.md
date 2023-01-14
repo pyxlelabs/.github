@@ -15,5 +15,5 @@
 
 ### Get in Touch
 
-####If you're interested in working with us, please contact us at info@pyxlelabs.com.
+#### If you're interested in working with us, please contact us at info@pyxlelabs.com.
 
