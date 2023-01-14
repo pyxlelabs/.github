@@ -11,7 +11,7 @@
 
 ### Our Team
 
-####Our team is made up of experienced developers, designers, and marketers who are passionate about what they do. We work together to deliver innovative solutions that drive results for our clients.
+#### Our team is made up of experienced developers, designers, and marketers who are passionate about what they do. We work together to deliver innovative solutions that drive results for our clients.
 
 ### Our Approach
 
